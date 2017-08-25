@@ -1,0 +1,10 @@
+<templateSet group="fabi">
+  <template name="td" value="// TODO $END$" description="todo comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="GROOVY" value="true" />
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+</templateSet>
