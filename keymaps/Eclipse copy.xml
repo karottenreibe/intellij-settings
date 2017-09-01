@@ -2,6 +2,9 @@
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="c" />
   </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="c" />
+  </action>
   <action id="CollapseSelection" />
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorScrollToCenter" />
