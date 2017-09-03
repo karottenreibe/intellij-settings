@@ -1,10 +1,7 @@
 <templateSet group="fabi">
-  <template name="td" value="// TODO $END$" description="todo comment" toReformat="false" toShortenFQNames="true">
+  <template name="td" value="// TODO (FS) $END$" description="todo comment" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="JAVA_CODE" value="true" />
-      <option name="GROOVY" value="true" />
-      <option name="c" value="true" />
-      <option name="cpp" value="true" />
+      <option name="OTHER" value="true" />
     </context>
   </template>
 </templateSet>
