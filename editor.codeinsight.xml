@@ -4,6 +4,7 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="android.database.Observable" />
     <EXCLUDED_PACKAGE NAME="android.icu.util.TimeUnit" />
+    <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xpath.internal.operations.Bool" />
     <EXCLUDED_PACKAGE NAME="java.util.Observable" />
   </component>
 </application>
