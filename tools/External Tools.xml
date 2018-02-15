@@ -1,16 +1,9 @@
 <toolSet name="External Tools">
   <tool name="Closure Compile (fast)" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$/../../gradlew" />
+      <option name="COMMAND" value="./gradlew" />
       <option name="PARAMETERS" value=":engine:com.teamscale.ui:closureCompileToSingleFile" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="JS Unit Tests" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="$ProjectFileDir$/../../gradlew" />
-      <option name="PARAMETERS" value=":engine:com.teamscale.ui:jsUnitTests" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/teamscale/" />
     </exec>
   </tool>
 </toolSet>
