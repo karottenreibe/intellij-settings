@@ -2,7 +2,7 @@
   <tool name="Closure Compile (fast)" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="./gradlew" />
-      <option name="PARAMETERS" value=":engine:com.teamscale.ui:closureCompileToSingleFile" />
+      <option name="PARAMETERS" value=":engine:com.teamscale.ui:compileJavaScriptToSingleFile" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/teamscale/" />
     </exec>
   </tool>
