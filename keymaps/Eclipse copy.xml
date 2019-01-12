@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="c" />
   </action>
@@ -6,6 +9,9 @@
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="c" />
   </action>
   <action id="CollapseSelection" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorScrollToCenter" />
   <action id="FileChooser.NewFolder">
@@ -54,6 +60,10 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift alt r" />
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift f11" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="shift alt s" />
