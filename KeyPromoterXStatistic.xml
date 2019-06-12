@@ -1,0 +1,24 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Run...">
+        <Item>
+          <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
+          <ShortCut>'Alt+Shift+F10'</ShortCut>
+          <Description>Run...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'F3'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
