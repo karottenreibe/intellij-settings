@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../shared/src/commonTest/kotlin/be/rottenrei/elterngeld/shared/math [shared_commonTest]'" />
-    <option name="defaultScopeName" value="Directory '.../shared/src/commonTest/kotlin/be/rottenrei/elterngeld/shared/math [shared_commonTest]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../shared/src/commonTest/kotlin/be/rottenrei/elterngeld/shared/math [shared_commonTest]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
