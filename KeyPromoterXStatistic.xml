@@ -33,14 +33,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Toggle Line Breakpoint">
-        <Item>
-          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+B' or 'Ctrl+F8'</ShortCut>
-          <Description>Toggle Line Breakpoint</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
     </option>
     <option name="suppressed">
       <Statistic Action="Declaration">
@@ -49,6 +41,14 @@
           <ShortCut>'F3'</ShortCut>
           <Description>Declaration</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+B' or 'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
