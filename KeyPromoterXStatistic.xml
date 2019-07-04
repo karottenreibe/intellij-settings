@@ -81,6 +81,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'VacationCalculatorTest.Must always show entire year [shared]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F11'</ShortCut>
+          <Description>Rerun 'VacationCalculatorTest.Must always show entire year [shared]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'VacationCalculatorTest.taking a full month of Elternzeit must result in a reduction [shared]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -142,6 +150,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AssessmentTest.Invalid configuration [shared]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'VacationCalculatorTest.Mutterschutz results in full vacation [shared]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'VacationCalculatorTest.Mutterschutz results in full vacation [shared]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
