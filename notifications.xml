@@ -3,6 +3,5 @@
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Error Report" displayType="NONE" shouldLog="false" />
-    <notification groupId="Teamscale Messages (Critical)" displayType="NONE" />
   </component>
 </application>
