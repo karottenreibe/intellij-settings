@@ -7,6 +7,7 @@
   </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="CollapseSelection" />
   <action id="CompileDirty">
@@ -17,6 +18,7 @@
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="FindNext" />
   <action id="FindPrevious" />
   <action id="Git.Tag">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="t" />
