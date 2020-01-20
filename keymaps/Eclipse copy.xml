@@ -13,6 +13,9 @@
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
+  <action id="DeviceAndSnapshotComboBox">
+    <keyboard-shortcut first-keystroke="alt f10" />
+  </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorScrollToCenter" />
   <action id="FileChooser.NewFolder">
@@ -67,6 +70,7 @@
     <keyboard-shortcut first-keystroke="shift f11" />
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="ShowExecutionPoint" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
