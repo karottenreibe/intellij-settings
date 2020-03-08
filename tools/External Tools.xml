@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/teamscale/" />
     </exec>
   </tool>
+  <tool name="gradlew check" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$/gradlew" />
+      <option name="PARAMETERS" value="check" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
 </toolSet>
