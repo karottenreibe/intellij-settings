@@ -54,6 +54,9 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="Print" />
+  <action id="ProjectRefreshAction">
+    <keyboard-shortcut first-keystroke="shift alt f12" />
+  </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
