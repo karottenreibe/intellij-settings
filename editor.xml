@@ -1,9 +1,25 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="android.database.Observable" />
+    <EXCLUDED_PACKAGE NAME="android.databinding.Observable" />
+    <EXCLUDED_PACKAGE NAME="android.icu.util.TimeUnit" />
+    <EXCLUDED_PACKAGE NAME="com.google.auto.value.extension.AutoValueExtension.Context" />
+    <EXCLUDED_PACKAGE NAME="com.sun.net.httpserver.HttpHandler" />
+    <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xpath.internal.operations.Bool" />
+    <EXCLUDED_PACKAGE NAME="java.util.Observable" />
+    <EXCLUDED_PACKAGE NAME="javax.xml.ws.spi.http.HttpHandler" />
+    <EXCLUDED_PACKAGE NAME="org.eclipse.jetty.http.HttpParser.HttpHandler" />
+  </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="19" />
-    <option name="FONT_FAMILY" value="Input" />
+    <option name="FONT_SIZE" value="14" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
 </application>
