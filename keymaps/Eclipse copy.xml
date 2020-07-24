@@ -57,6 +57,9 @@
   <action id="ProjectRefreshAction">
     <keyboard-shortcut first-keystroke="shift alt f12" />
   </action>
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="ctrl #10000d6" />
+  </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
