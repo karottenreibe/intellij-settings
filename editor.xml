@@ -12,6 +12,9 @@
     <EXCLUDED_PACKAGE NAME="javax.xml.ws.spi.http.HttpHandler" />
     <EXCLUDED_PACKAGE NAME="org.eclipse.jetty.http.HttpParser.HttpHandler" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="0" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
