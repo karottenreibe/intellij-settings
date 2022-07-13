@@ -10,6 +10,7 @@
       <mapping ext="expected" type="PLAIN_TEXT" />
       <mapping ext="parsed" type="PLAIN_TEXT" />
       <mapping ext="simple" type="PLAIN_TEXT" />
+      <mapping ext="feature" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
