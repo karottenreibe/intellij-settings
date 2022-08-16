@@ -12,6 +12,9 @@
     <EXCLUDED_PACKAGE NAME="javax.xml.ws.spi.http.HttpHandler" />
     <EXCLUDED_PACKAGE NAME="org.eclipse.jetty.http.HttpParser.HttpHandler" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="18" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="PREVIEW" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
