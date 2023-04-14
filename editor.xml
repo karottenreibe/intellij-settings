@@ -12,11 +12,15 @@
     <EXCLUDED_PACKAGE NAME="javax.xml.ws.spi.http.HttpHandler" />
     <EXCLUDED_PACKAGE NAME="org.eclipse.jetty.http.HttpParser.HttpHandler" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
+  <component name="CodeVisionSettings">
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
